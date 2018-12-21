@@ -1,0 +1,6 @@
+generated/
+/lib/firrtl.jar
+/bin/
+.idea
+target/
+*.iml
