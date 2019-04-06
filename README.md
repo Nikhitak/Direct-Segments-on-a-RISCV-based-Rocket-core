@@ -196,7 +196,7 @@ You can use Direct Segments prototype added to RISCV-Qemu to quickly test the di
     $ ./riscv64-softmmu/qemu-system-riscv64 -kernel Linux_changed/work/riscv-pk/bbl -nographic -machine spike_v1.10
 
 
-### <a name="vlsi"></a> 3) Using FireSim is a cycle-accurate, FPGA-accelerated Simulation
+### <a name="vlsi"></a> 3) Using FireSim as a cycle-accurate, FPGA-accelerated Simulation
 
 Follow the Firesim set up and intallation document at [Firesim](https://docs.fires.im/en/latest/index.html)
 Follow the steps for Running a Single Node Simulation
